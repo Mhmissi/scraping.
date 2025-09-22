@@ -1,0 +1,8 @@
+in the terminal run this firstly just one time : 
+pip install -r requirements.txt
+
+than , just run this to use the model , you wil have csv file with the data that you searched : 
+python google_maps_scraper.py
+
+
+before all you must open the folder that contain the py file and the requiremets.txt with vscode  than you can test 
